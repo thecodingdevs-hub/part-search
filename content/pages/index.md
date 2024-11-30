@@ -49,7 +49,6 @@ sections:
         title: Second Card Title
         image:
           type: Image
-          url: /images/mui-5.svg
           altText: Second item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
